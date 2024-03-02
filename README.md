@@ -1,2 +1,8 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x1A56321f0C815E6f5D1f8c5294850F513bAb3535'
+quorum: 1
 # tea
 thunder xzy
